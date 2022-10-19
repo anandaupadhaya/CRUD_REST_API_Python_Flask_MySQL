@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="261533e4-422c-4ce3-b0c7-b700f7eedb2f" name="Changes" comment="Practice">
-      <change afterPath="$PROJECT_DIR$/Flask_API/Sql_Conn.py" afterDir="false" />
-    </list>
+    <list default="true" id="261533e4-422c-4ce3-b0c7-b700f7eedb2f" name="Changes" comment="Initial Push" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +32,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/ParallelDots/Project",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
@@ -67,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666186822573</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Initial Push">
+      <created>1666187530725</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666187530725</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,6 +92,7 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <MESSAGE value="Practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practice" />
+    <MESSAGE value="Initial Push" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Push" />
   </component>
 </project>
