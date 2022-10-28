@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="261533e4-422c-4ce3-b0c7-b700f7eedb2f" name="Changes" comment="Initial Push">
-      <change afterPath="$PROJECT_DIR$/RabbitMQ/consumer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RabbitMQ/producer.py" afterDir="false" />
+    <list default="true" id="261533e4-422c-4ce3-b0c7-b700f7eedb2f" name="Changes" comment="RabbitMQ_Introduction">
+      <change afterPath="$PROJECT_DIR$/Pandas/Pandas_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/Flask-2.2.2.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/Flask-2.2.2.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/Jinja2-3.1.2.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/Jinja2-3.1.2.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/MarkupSafe-2.1.1.dist-info/LICENSE.rst" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/MarkupSafe-2.1.1.dist-info/LICENSE.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/MarkupSafe-2.1.1.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/MarkupSafe-2.1.1.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/Werkzeug-2.2.2.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/Werkzeug-2.2.2.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/click-8.1.3.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/click-8.1.3.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/colorama-0.4.5.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/colorama-0.4.5.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/descriptor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/descriptor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/descriptor_database.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/descriptor_database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/descriptor_pool.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/descriptor_pool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/internal/_parameterized.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/internal/_parameterized.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/internal/api_implementation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/internal/api_implementation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/internal/builder.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/internal/builder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/internal/containers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/internal/containers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/internal/decoder.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/internal/decoder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/internal/encoder.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/internal/encoder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/internal/enum_type_wrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/internal/enum_type_wrapper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/internal/extension_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/internal/extension_dict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/internal/message_listener.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/internal/message_listener.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/internal/python_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/internal/python_message.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/internal/type_checkers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/internal/type_checkers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/internal/well_known_types.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/internal/well_known_types.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/internal/wire_format.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/internal/wire_format.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/json_format.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/json_format.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/message.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/message.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/message_factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/message_factory.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/proto_builder.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/proto_builder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/pyext/cpp_message.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/pyext/cpp_message.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/reflection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/reflection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/service.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/service.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/service_reflection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/service_reflection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/symbol_database.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/symbol_database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/text_encoding.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/text_encoding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/text_format.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/google/protobuf/text_format.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/itsdangerous-2.1.2.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/itsdangerous-2.1.2.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/markupsafe/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/markupsafe/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/markupsafe/_native.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/markupsafe/_native.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/markupsafe/_speedups.c" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/markupsafe/_speedups.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/markupsafe/_speedups.pyi" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/markupsafe/_speedups.pyi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/mysql_connector_python-8.0.31.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/mysql_connector_python-8.0.31.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/pip-21.2.4.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/pip-21.2.4.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/pkg_resources/_vendor/pyparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/pkg_resources/_vendor/pyparsing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/protobuf-3.20.1-py3.10-nspkg.pth" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/protobuf-3.20.1-py3.10-nspkg.pth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/protobuf-3.20.1.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/protobuf-3.20.1.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/setuptools-58.1.0.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/setuptools-58.1.0.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Lib/site-packages/setuptools/_vendor/pyparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Lib/site-packages/setuptools/_vendor/pyparsing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Scripts/Activate.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Scripts/Activate.ps1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Scripts/activate" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Scripts/activate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Scripts/activate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Scripts/activate.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Scripts/deactivate.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Scripts/deactivate.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/Sql_Conn.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/Sql_Conn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/pyvenv.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flask_API/user_signup.py" beforeDir="false" afterPath="$PROJECT_DIR$/Flask_API/user_signup.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666187699036</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="RabbitMQ_Introduction">
+      <created>1666332913312</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666332913312</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +167,18 @@
     </ignored-roots>
     <MESSAGE value="Practice" />
     <MESSAGE value="Initial Push" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Push" />
+    <MESSAGE value="RabbitMQ_Introduction" />
+    <option name="LAST_COMMIT_MESSAGE" value="RabbitMQ_Introduction" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="robot-line">
+          <url>file://$PROJECT_DIR$/Pandas/Pandas_test.py</url>
+          <line>123</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

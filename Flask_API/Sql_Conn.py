@@ -1,6 +1,8 @@
 import json
 import mysql.connector
 from app import app
+import pymysql.cursors
+
 
 class SQL_CONNECTOR:
     def __init__(self):
